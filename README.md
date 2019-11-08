@@ -10,7 +10,6 @@ $ git clone https://github.com/Victini378/Java-Alternatives-Installer-Linux/
 
 $ python3 javaconfigure.py [options] jdk_folder_name
     
-  ### Options:
-  --version Show version information
-  --help, -h Show this message
-
+### Options:
+--version Show version information
+--help, -h Show this message
