@@ -1,6 +1,6 @@
 # Java-Alternatives-Installer-Linux
 
-Script Python for installing java alternatives in GNU/Linux distros 
+Script Python to install java alternatives in GNU/Linux distros 
 
 ## Getting started
 ```
